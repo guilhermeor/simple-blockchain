@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/guilhermeor/simple-blockchain.png)](https://travis-ci.org/guilhermeor/simple-blockchain)
+
 # simple-blockchain
 
 Blockchain using golang
