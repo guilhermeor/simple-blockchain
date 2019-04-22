@@ -4,5 +4,5 @@ go:
   - "1.12.x"
   - master
 
-  before_install:
-  - go get -v ./...
+before_install:
+- go get -v ./...
