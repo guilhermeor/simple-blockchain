@@ -1,8 +1,10 @@
 language: go
 
 go:
-  - "1.12.x"
   - master
+  
+git:
+  depth: 1
 
 before_install:
 - go get -v ./...
