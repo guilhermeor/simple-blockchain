@@ -23,3 +23,4 @@ The message sent should be like:
 ```json
 {"BPM":12}
 ```
+Code based on this [article](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc).
